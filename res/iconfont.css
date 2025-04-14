@@ -1,0 +1,76 @@
+@font-face {
+  font-family: "iconfont"; /* Project id  */
+  src: url('iconfont.ttf?t=1648446749506') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-my:before {
+  content: "\e608";
+}
+
+.icon-taobao:before {
+  content: "\e755";
+}
+
+.icon-buhuo3:before {
+  content: "\e616";
+}
+
+.icon-yanjiusheng:before {
+  content: "\e607";
+}
+
+.icon-email:before {
+  content: "\e6ac";
+}
+
+.icon-xueshu:before {
+  content: "\e648";
+}
+
+.icon-zhongguozhiwang:before {
+  content: "\e502";
+}
+
+.icon-apple:before {
+  content: "\e681";
+}
+
+.icon-xueshu1:before {
+  content: "\e798";
+}
+
+.icon-town-hall-:before {
+  content: "\e63f";
+}
+
+.icon-icon-test:before {
+  content: "\e653";
+}
+
+.icon-jinshanciba:before {
+  content: "\ea09";
+}
+
+.icon-tushuguan:before {
+  content: "\e664";
+}
+
+.icon-IEEE_logo:before {
+  content: "\e605";
+}
+
+.icon-logo:before {
+  content: "\e654";
+}
+
+.icon-elsevier:before {
+  content: "\e69a";
+}

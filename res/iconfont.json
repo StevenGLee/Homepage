@@ -1,0 +1,121 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "393406",
+      "name": "我",
+      "font_class": "my",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "577368",
+      "name": "淘宝",
+      "font_class": "taobao",
+      "unicode": "e755",
+      "unicode_decimal": 59221
+    },
+    {
+      "icon_id": "912271",
+      "name": "学术",
+      "font_class": "buhuo3",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "965558",
+      "name": "研究生",
+      "font_class": "yanjiusheng",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "1224079",
+      "name": "email",
+      "font_class": "email",
+      "unicode": "e6ac",
+      "unicode_decimal": 59052
+    },
+    {
+      "icon_id": "1760540",
+      "name": "学术",
+      "font_class": "xueshu",
+      "unicode": "e648",
+      "unicode_decimal": 58952
+    },
+    {
+      "icon_id": "2878218",
+      "name": "中国知网",
+      "font_class": "zhongguozhiwang",
+      "unicode": "e502",
+      "unicode_decimal": 58626
+    },
+    {
+      "icon_id": "3876545",
+      "name": "apple",
+      "font_class": "apple",
+      "unicode": "e681",
+      "unicode_decimal": 59009
+    },
+    {
+      "icon_id": "4895401",
+      "name": "学术",
+      "font_class": "xueshu1",
+      "unicode": "e798",
+      "unicode_decimal": 59288
+    },
+    {
+      "icon_id": "6336490",
+      "name": "town-hall-15",
+      "font_class": "town-hall-",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "7611152",
+      "name": "财务处",
+      "font_class": "icon-test",
+      "unicode": "e653",
+      "unicode_decimal": 58963
+    },
+    {
+      "icon_id": "8032881",
+      "name": "金山词霸",
+      "font_class": "jinshanciba",
+      "unicode": "ea09",
+      "unicode_decimal": 59913
+    },
+    {
+      "icon_id": "10164907",
+      "name": "图书馆",
+      "font_class": "tushuguan",
+      "unicode": "e664",
+      "unicode_decimal": 58980
+    },
+    {
+      "icon_id": "23695415",
+      "name": "IEEE_logo",
+      "font_class": "IEEE_logo",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "25427937",
+      "name": "中国知网",
+      "font_class": "logo",
+      "unicode": "e654",
+      "unicode_decimal": 58964
+    },
+    {
+      "icon_id": "27239285",
+      "name": "elsevier",
+      "font_class": "elsevier",
+      "unicode": "e69a",
+      "unicode_decimal": 59034
+    }
+  ]
+}
